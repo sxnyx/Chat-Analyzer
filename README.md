@@ -2,7 +2,8 @@
 
 Working model link : https://chat-analyzer-sanyasinghproject.streamlit.app/
 
-##Libraries need:
+**Libraries need:**
+'''
 -streamlit
 -matplotlib
 -seaborn
@@ -11,3 +12,4 @@ Working model link : https://chat-analyzer-sanyasinghproject.streamlit.app/
 -pandas
 -counter
 -emoji
+'''
