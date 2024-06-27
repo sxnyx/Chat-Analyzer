@@ -10,3 +10,4 @@ emoji
 preprocessor
 helper
 urlextract
+wordcloud
