@@ -5,11 +5,11 @@ Working model link : https://chat-analyzer-sanyasinghproject.streamlit.app/
 **Libraries need:**
 
 -streamlit<br />
--matplotlib
--seaborn
--urlextract
--wordcloud
--pandas
--counter
--emoji
+-matplotlib<br />
+-seaborn<br />
+-urlextract<br />
+-wordcloud<br />
+-pandas<br />
+-counter<br />
+-emoji<br />
 
