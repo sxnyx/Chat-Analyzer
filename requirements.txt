@@ -7,3 +7,6 @@ pandas-datareader
 prophet
 seaborn
 emoji
+preprocessor
+helper
+urlextract
