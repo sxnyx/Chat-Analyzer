@@ -5,3 +5,5 @@ streamlit
 yfinance
 pandas-datareader
 prophet
+seaborn
+emoji
