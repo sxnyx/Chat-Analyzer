@@ -31,7 +31,7 @@ Working model link : (https://chat-analyzer-sanyasinghproject.streamlit.app/)<br
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b947c368-365e-4769-8d42-4a6e95701ede)
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b56255d6-0e3c-4b74-8738-6b3d869b129a)
 
-->** __Note__ : I have used the 'app.py' code to deploy the app on streamlit as the 'app.py' did include the code for emoji analysis because stream does not support the emoji.UNICODE_EMOJI. But to get the emoji analyis, use the 'appEmoji.py' code as it works fine with any version of Python in the Pycharm environment**<br/>
+-> __Note__ : *I have used the 'app.py' code to deploy the app on streamlit as the 'app.py' did include the code for emoji analysis because stream does not support the emoji.UNICODE_EMOJI. But to get the emoji analyis, use the 'appEmoji.py' code as it works fine with any version of Python in the Pycharm environment*<br/>
 -> the appEmoji.py contains the code of emoji analysis, which produces the result as follows:<br/><br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/47e56489-5229-4d0e-8dd1-10d1ab740751)
 
