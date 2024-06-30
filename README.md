@@ -23,9 +23,7 @@ Working model link : (https://chat-analyzer-sanyasinghproject.streamlit.app/)<br
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/44bd221b-99c8-474c-8c96-77fcb3f8fc64)![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/2e5960f0-833e-4258-97b1-44881cf5b072)<br/>
 -> The busiest day of the week and the busiest month of the year are determined using bar plots.<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/2ecce064-6a8a-44f3-a466-9d88dc72826a)<br/>
--> The Seaborn library is utilized to create a weekly activity map, highlighting periods of high and low activity within the chat.
-
-<br/>
+-> The Seaborn library is utilized to create a weekly activity map, highlighting periods of high and low activity within the chat.<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/1cd76ff1-ab7d-4ef2-92c3-4dca32b16a13)<br/>
 ->The most active members of the group are identified and presented in bar graph format. <br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/5f208630-51cc-4854-b3a9-aa9f079a3b4d)<br/>
