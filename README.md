@@ -21,12 +21,12 @@ Working model link : (https://chat-analyzer-sanyasinghproject.streamlit.app/)<br
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/5d53bc3b-3a0e-4020-9ce8-55578570a7a4)<br/>
 -> Group dynamics like monthly timeline, daily timeline ae shown using graph<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/44bd221b-99c8-474c-8c96-77fcb3f8fc64)![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/2e5960f0-833e-4258-97b1-44881cf5b072)<br/>
--> The busiest day of the week and the busiest month of the year can be obtained using the bar plot.
-![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/2ecce064-6a8a-44f3-a466-9d88dc72826a)
+-> The busiest day of the week and the busiest month of the year can be obtained using the bar plot.<br/>
+![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/2ecce064-6a8a-44f3-a466-9d88dc72826a)<br/>
 -> seaborn library is used to obtain the weekly activity of the chat. The weekly activity map tells about when the members are more active in the chat and when they are least active<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/1cd76ff1-ab7d-4ef2-92c3-4dca32b16a13)<br/>
 -> Most active members of the group can also be obtained and is presented in the form of bar graph. <br/>
-![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/5f208630-51cc-4854-b3a9-aa9f079a3b4d)
+![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/5f208630-51cc-4854-b3a9-aa9f079a3b4d)<br/>
 ->wordcloud library is used to get the image of most common words used in the group and display it in the form of the picture<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b947c368-365e-4769-8d42-4a6e95701ede)
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b56255d6-0e3c-4b74-8738-6b3d869b129a)
