@@ -27,9 +27,7 @@ Working model link : (https://chat-analyzer-sanyasinghproject.streamlit.app/)<br
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/1cd76ff1-ab7d-4ef2-92c3-4dca32b16a13)<br/>
 ->The most active members of the group are identified and presented in bar graph format. <br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/5f208630-51cc-4854-b3a9-aa9f079a3b4d)<br/>
-->The WordCloud library is used to generate an image of the most common words used in the group.
-
-<br/>
+->The WordCloud library is used to generate an image of the most common words used in the group.<br/>
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b947c368-365e-4769-8d42-4a6e95701ede)
 ![image](https://github.com/sxnyx/Chat-Analyzer/assets/112766278/b56255d6-0e3c-4b74-8738-6b3d869b129a)
 
